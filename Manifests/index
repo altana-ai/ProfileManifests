@@ -829,7 +829,7 @@
 		<key>com.microsoft.VSCode</key>
 		<dict>
 			<key>modified</key>
-			<date>2025-10-20T12:36:36Z</date>
+			<date>2025-10-20T12:41:36Z</date>
 			<key>path</key>
 			<string>Manifests/ManagedPreferencesApplications/com.microsoft.VSCode.plist</string>
 			<key>version</key>
@@ -2445,6 +2445,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2025-10-20T16:33:00Z</date>
+	<date>2025-10-20T16:41:06Z</date>
 </dict>
 </plist>

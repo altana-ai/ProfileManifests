@@ -15,7 +15,7 @@
     <key>pfm_interaction</key>
     <string>combined</string>
     <key>pfm_last_modified</key>
-    <date>2025-10-20T12:36:36Z</date>
+    <date>2025-10-20T12:41:36Z</date>
     <key>pfm_platforms</key>
     <array>
       <string>macOS</string>
@@ -225,6 +225,13 @@
         <string>Telemetry Level</string>
         <key>pfm_type</key>
         <string>string</string>
+		<key>pfm_range_list</key>
+        <array>
+          <string>all</string>
+          <string>error</string>
+          <string>crash</string>
+          <string>off</string>
+        </array>
       </dict>
       <dict>
         <key>pfm_default</key>
