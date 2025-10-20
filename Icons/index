@@ -511,6 +511,13 @@
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.microsoft.SkypeForBusiness.png</string>
 		</dict>
+		<key>com.microsoft.VSCode</key>
+		<dict>
+			<key>hash</key>
+			<string>55346c16f1fc347eae1df18e70072b3c</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.microsoft.VSCode.png</string>
+		</dict>
 		<key>com.microsoft.Word</key>
 		<dict>
 			<key>hash</key>
@@ -1573,6 +1580,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2025-10-20T16:05:27Z</date>
+	<date>2025-10-20T16:33:00Z</date>
 </dict>
 </plist>
